@@ -8,6 +8,26 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Live Demo](#live-demo)
+- [Role Support](#role-support)
+- [Technical Stack](#technical-stack)
+- [File Structure](#file-structure)
+- [Installation & Setup](#installation--setup)
+- [Contributing](#contributing)
+
+---
+
+## 🌐 Live Demo
+
+### Try it now:
+🔗 **[https://msaispurthi.github.io/resume-analyzer-ui/](https://msaispurthi.github.io/resume-analyzer-ui/)**
+
+No installation required - works directly in your browser!
+
 ## 🌟 Overview
 
 **Resume Analyzer** is a frontend ATS simulation designed to help job seekers optimize their resumes. By analyzing resume content against specific job roles, the tool provides real-time feedback on skill gaps, keyword matching, and overall compatibility.
